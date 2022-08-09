@@ -1,0 +1,1 @@
+<h1 class="bg-gary-800 h-screen text-4xl text-center">About Page</h1>
